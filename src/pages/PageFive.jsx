@@ -19,7 +19,7 @@ function PageFive(){
             </div>
             <div className="content">A high-quality solution startup website quickly</div>
             <button className="button">Get Started</button>
-            <img src={MacBook} />
+            <img src={MacBook} alt="MacBook"/>
             <div className="footer">
                 <div>Startup Framework works on devices supporting Retina Display. Feel the clarity in each pixel.</div>
                 <div className="center">There are a lot of different components that will help you create the perfect look and feel for your startup.</div>

@@ -17,13 +17,13 @@ function PageFour(){
                     <div>Blog</div>
                 </div>
                 <div className="right">
-                    <img src={Twitter} />
-                    <img src={Facebook} />
-                    <img src={Google} />
+                    <img src={Twitter} alt="Twitter"/>
+                    <img src={Facebook} alt="Facebook"/>
+                    <img src={Google} alt="Google"/>
                 </div>
             </div>
             <div className="content">Simple and beautiful ready for use blocks</div>
-            <img src={Video} />
+            <img src={Video} alt="Video"/>
         </div>
     )
 }

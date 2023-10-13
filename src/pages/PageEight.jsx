@@ -14,17 +14,17 @@ function PageEight(){
                     <div>Features</div>
                     <div>Pricing</div>
                     <div>Blog</div>
-                    <img src={Kamartaj}/>
-                    <img src={Something} />
+                    <img src={Kamartaj} alt="Kamartaj"/>
+                    <img src={Something} alt="Something"/>
                 </div>
                 <div className="icon">Startup 3</div>
                 <div className="title">Forget About Code</div>
                 <p>Startup Framework gives you complete freedom over your creative process — you don’t have to think about any technical aspects. There are no limits and absolutely no coding. </p>
-                <img src={Paginator} />
+                <img src={Paginator} alt="Paginator"/>
                 <button>Create an Account</button>
                 <div className="absolute">
-                    <img src={Left}  />
-                    <img src={Right}  />
+                    <img src={Left} alt="Left"/>
+                    <img src={Right} alt="Right"/>
                 </div>
             </div>
         </div>

@@ -19,7 +19,7 @@ function PageNine(){
             <div className="content">You have the design, you have the code</div>
             <p>We made it so beutiful and simple. It combines landings, pages, blogs and shop screens. It is definitely the tool you need in your collection! </p>
             <button>Explore Design</button>
-            <img src={Design} />
+            <img src={Design} alt="Design"/>
         </div>
     )
 }

@@ -23,11 +23,11 @@ function PageTen(){
             <button>Get Started for Free</button>
             <div className="final">
                 <div>
-                    <img src={Lipstick} />
+                    <img src={Lipstick} alt="Lipstick"/>
                     <div>A high-quality solution for a beautiful startup website.</div>
                 </div>
                 <div>
-                    <img src={Planet} />
+                    <img src={Planet} alt="Planet"/>
                     <div>Learn more about Startup Framework in demo version.</div>
                 </div>
             </div>

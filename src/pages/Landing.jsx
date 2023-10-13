@@ -11,7 +11,7 @@ function Landing() {
                     <div>Features</div>
                     <div>Blog</div>
                     <div>Shop</div>
-                    <img src={Search}/>
+                    <img src={Search} alt='Search'/>
                 </div>
                 <div>
                     <button className='b1'>Sign In</button>

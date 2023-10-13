@@ -19,7 +19,7 @@ function PageEleven(){
             <p>We haven’t forgotten about responsive layout. With Startup Framework, you can create a website with full mobile support.</p>
             <button>Get Started</button>
             <div className='learn'>Learn More</div>
-            <img src={IPad} />
+            <img src={IPad} alt='Ipad'/>
         </div>
     )
 }

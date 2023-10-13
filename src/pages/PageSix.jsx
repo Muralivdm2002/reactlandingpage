@@ -18,7 +18,7 @@ function PageSix(){
                     </div>
                 </div>
                 <div className="content">A high-quality solution for those who want a beautiful startup website quickly</div>
-                <img src={Play} />
+                <img src={Play} alt="Play"/>
                 <p>We made it so beutiful and simple. It combines landings, pages, blogs and shop screens. It is definitely the tool you need in your collection! </p>
             </div>
         </div>

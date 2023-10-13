@@ -22,7 +22,7 @@ function PageSeven(){
                     <div className="terms">By signing up, you agree to the Terms of Service</div>
                 </div>
             </div>
-            <img src={Girl} />
+            <img src={Girl} alt="Girl"/>
         </div>
     )
 }

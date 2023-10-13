@@ -8,7 +8,7 @@ function PageThree(){
             <div className='header'>
                 <div className='left'>
                     <div className="icon">Startup 3</div>
-                    <div>Product <img src={Down} /></div>
+                    <div>Product <img src={Down} alt='Down' /></div>
                     <div>Pricing</div>
                     <div>Community</div>
                 </div>
@@ -31,7 +31,7 @@ function PageThree(){
                 </div>
                 <div className="right">
                     <div className='image'>
-                        <img src={Play} />
+                        <img src={Play} alt='Play'/>
                     </div>
                     <p>We made it so beutiful and simple. It combines landings, pages, blogs and shop screens. It is definitely the tool you need in your collection! </p>
                 </div>
