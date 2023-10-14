@@ -16,6 +16,11 @@ import PageFourteen from './pages/PageFourteen';
 import PageFifteen from './pages/PageFifteen';
 import PageSixteen from './pages/PageSixteen';
 import PageSeventeen from './pages/PageSeventeen';
+import PageEighteen from './pages/PageEighteen';
+import PageNineteen from './pages/PageNineteen';
+import PageTwenty from './pages/PageTwenty';
+import PageTwentyOne from './pages/PageTwentyOne';
+import PageTwentyTwo from './pages/PageTwentyTwo';
 
 function App() {
   return (
@@ -37,6 +42,11 @@ function App() {
       <PageFifteen />
       <PageSixteen />
       <PageSeventeen />
+      <PageEighteen />
+      <PageNineteen />
+      <PageTwenty />
+      <PageTwentyOne />
+      <PageTwentyTwo />
     </div>
   );
 }

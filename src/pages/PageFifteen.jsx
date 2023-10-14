@@ -17,7 +17,7 @@ function PageFifteen(){
                     </div>
                     <div className="right">
                         <div>Login</div>
-                        <button>Get Started</button>
+                        <button>Sign Up</button>
                     </div>
             </div>
             <div className="content">Build Your Own Site like a Lego Constructor</div>
